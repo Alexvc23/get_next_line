@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alex-ubuntu <alex-ubuntu@student.42.fr>    +#+  +:+       +#+        */
+/*   By: jvalenci <jvalenci@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/12/07 10:13:51 by alex-ubuntu       #+#    #+#             */
-/*   Updated: 2021/12/07 10:14:45 by alex-ubuntu      ###   ########.fr       */
+/*   Created: 2021/12/13 09:54:42 by jvalenci          #+#    #+#             */
+/*   Updated: 2021/12/13 10:08:44 by jvalenci         ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
